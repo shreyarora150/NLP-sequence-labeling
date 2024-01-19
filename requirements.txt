@@ -1,0 +1,9 @@
+ipython==8.5.0
+jupyter==1.0.0
+nbimporter==0.3.4
+pytest==7.1.3
+pandas==1.3.5
+spacy==3.2.4
+tensorflow==2.9.2
+numpy==1.24.2
+scikit-learn==1.2.0
